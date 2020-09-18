@@ -53,4 +53,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=RavinduSachintha&show_icons=true&theme=dracula" alt="RavinduSachintha" /></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
