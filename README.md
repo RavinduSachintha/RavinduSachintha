@@ -50,14 +50,7 @@
 
 ## Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RavinduSachintha&show_icons=true&theme=dracula" alt="RavinduSachintha" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=RavinduSachintha&show_icons=true&theme=dracula" alt="RavinduSachintha" /></p>
 
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-📅 **I'm Most Productive on Tuesdays** 
-
-
-📊 **This week I spent my time on** 
-
 <!--END_SECTION:waka-->
