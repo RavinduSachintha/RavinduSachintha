@@ -1,6 +1,6 @@
 # Hi, I'm Ravindu Sachintha 👋
 
-- 🌱 I’m currently studying for a B.Sc(hons) in Computer Science degree at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) 🏫
+- 🌱 I’m currently studying for a degree of B.Sc(hons) in Computer Science at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) 🏫
 - 👯 I’m looking to collaborate Java, Angular or Distributed Systems related projects
 - 🙈 Personal Website: [ravindusachintha.github.io](https://ravindusachintha.github.io)
 
