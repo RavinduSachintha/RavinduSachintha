@@ -54,10 +54,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         6 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 % 
-Markdown     6 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
-TypeScript   6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Other        3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Python       56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown     6 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.82 % 
+HTML         4 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+JavaScript   3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Other        3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+TypeScript   1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 ```
 <!--END_SECTION:waka-->
