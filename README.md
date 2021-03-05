@@ -54,7 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash   4 mins          █████████████▒░░░░░░░░░░░   53.10 % 
-HTML   3 mins          ██████████▒░░░░░░░░░░░░░░   41.73 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
