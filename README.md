@@ -54,8 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Makefile   19 mins         ██████████████░░░░░░░░░░░   56.19 % 
-C          11 mins         ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Python     3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
