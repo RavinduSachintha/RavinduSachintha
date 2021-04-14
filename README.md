@@ -54,6 +54,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   51 mins         █████████▓░░░░░░░░░░░░░░░   38.63 % 
+YAML         33 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.92 % 
+Markdown     19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Docker       17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Bash         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 <!--END_SECTION:waka-->
