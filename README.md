@@ -54,10 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash         1 hr 55 mins    █████████▒░░░░░░░░░░░░░░░   37.69 % 
-JavaScript   1 hr 43 mins    ████████▓░░░░░░░░░░░░░░░░   34.05 % 
-TypeScript   41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-HTML         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
