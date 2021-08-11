@@ -54,9 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 5 mins    █████████████████████▓░░░   86.82 % 
-Docker       25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Sass         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript   4 hrs 4 mins    █████████████████████████   99.92 % 
 ```
 <!--END_SECTION:waka-->
