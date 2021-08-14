@@ -8,7 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ravindusachintha53@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ravindu-sachintha)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ravindu_best)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RSachintha96)
 [![Medium](https://img.shields.io/badge/-medium-%2312100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ravindusachintha)
 [![Gitlab](https://img.shields.io/badge/-gitlab-%23330f63?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/Sachintha96)
 [![StackOverflow](https://img.shields.io/badge/-stackoverflow-%23808080?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/7483559/ravindu-sachintha)
