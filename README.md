@@ -1,7 +1,8 @@
 # Hi, I'm Ravindu Sachintha 👋
 
-- 🌱 I’m currently studying for a degree of B.Sc(hons) in Computer Science at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) 🏫
-- 👯 I’m looking to collaborate Java, Angular or Distributed Systems related projects
+- 💻 I’m currently working as a software engineer at [CodeGen International Pvt(Ltd), Sri Lanka](https://codegen.co.uk)
+- 🌱 I studied at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) for a degree of B.Sc(hons) in Computer Science
+- 👯 I’m looking to collaborate Java, Angular, Distributed Systems (mainly blockchain), and Machine Learning related projects
 - 🙈 Personal Website: [ravindusachintha.github.io](https://ravindusachintha.github.io)
 
 ### You can connect with me:
