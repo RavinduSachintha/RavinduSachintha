@@ -55,6 +55,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+XML          3 mins          ███████████████░░░░░░░░░░   60.46 % 
+Java         1 min           ████████░░░░░░░░░░░░░░░░░   31.78 % 
 ```
 <!--END_SECTION:waka-->
