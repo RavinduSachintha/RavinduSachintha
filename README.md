@@ -55,8 +55,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         2 hrs 5 mins    ██████████████████████▒░░   89.93 % 
-Properties   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-XML          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+
 ```
 <!--END_SECTION:waka-->
