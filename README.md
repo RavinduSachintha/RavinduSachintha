@@ -55,7 +55,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 6 mins     ██████████████████████▓░░   90.51 % 
-JavaScript   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Java   1 hr 6 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
