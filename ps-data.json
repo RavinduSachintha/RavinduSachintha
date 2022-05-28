@@ -1,0 +1,21 @@
+{
+    "header": {
+        "name": "Ravindu Sachintha",
+        "description": "Software Engineer @ CodeGen International",
+        "profile-img-url": "",
+        "socials": [
+            {
+                "url": "",
+                "icon": ""
+            }
+        ]
+    },
+    "body": {
+        "about-me": {
+            "title": "About Me",
+            "content": "I am a fast learner, a flexible team worker and a friendly character who seeks knowledge and experience in the field of Computer Science. Also an outgoing personality with good communication and project management skills. I’m interested in web / software application development and research areas such as Distributed Computing, Blockchain, Machine Learning, and Natural Language Processing."
+        }
+    },
+    "footer": {
+    }
+}
