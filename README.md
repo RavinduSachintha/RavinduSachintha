@@ -52,9 +52,3 @@
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=RavinduSachintha&show_icons=true&theme=dracula" alt="RavinduSachintha" /></p>
-
-<!--START_SECTION:waka-->
-```text
-Java   41 mins         █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
