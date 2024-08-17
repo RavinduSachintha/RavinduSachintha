@@ -1,6 +1,6 @@
 # Hi, I'm Ravindu Sachintha 👋
 
-- 💻 I’m currently working as a senior software engineer at [CodeGen International Pvt(Ltd), Sri Lanka](https://codegen.co.uk)
+- 💻 I’m currently working as a senior software engineer at [Cambio Software, Sri Lanka](https://www.cambio.lk)
 - 🌱 I studied at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) for a degree of B.Sc(hons) in Computer Science
 - 👯 I’m looking to collaborate Java, Angular, Distributed Systems (mainly blockchain), and Machine Learning related projects
 - 🙈 Personal Website: [ravindusachintha.github.io](https://ravindusachintha.github.io)
